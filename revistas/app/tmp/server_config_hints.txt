@@ -1,0 +1,1 @@
+a:3:{s:15:"SCRIPT_FILENAME";s:25:"/var/www/prueba/index.php";s:9:"HTTP_HOST";s:6:"prueba";s:13:"DOCUMENT_ROOT";s:15:"/var/www/prueba";}
